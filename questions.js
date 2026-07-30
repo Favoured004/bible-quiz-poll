@@ -109,5 +109,3 @@ votes:[85,5,5,5]
 }
 
 ];
-
-The first badge of questions
