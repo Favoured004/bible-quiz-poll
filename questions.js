@@ -106,9 +106,8 @@ const questions = [
     reference:"Acts–Philemon",
     explanation:"Paul wrote many of the epistles.",
     votes:[85,5,5,5]
-}
+},
 
-];
 // ADD THESE QUESTIONS BELOW QUESTION 12
 
 {
@@ -451,4 +450,4 @@ answer:0,
 reference:"John 18:10",
 explanation:"Peter struck the servant of the high priest.",
 votes:[84,5,5,6]
-}
+];
