@@ -108,7 +108,8 @@ const questions = [
     votes:[85,5,5,5]
 }
 
-];// ADD THESE QUESTIONS BELOW QUESTION 12
+];
+// ADD THESE QUESTIONS BELOW QUESTION 12
 
 {
 question:"Who climbed a sycamore tree to see Jesus?",
